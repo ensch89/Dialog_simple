@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dialog_simple</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="accept">Accept</string>
+    <string name="dia">Dialog</string>
+</resources>
